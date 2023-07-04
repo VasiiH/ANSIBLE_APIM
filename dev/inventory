@@ -1,5 +1,6 @@
 [apim]
 apim_1 ansible_host=[ip_address] ansible_user=[ssh_user]
+#apim_1 ansible_host=172.16.246.128 ansible_password=1234 ansible_user=kmaster 
 
 # Example
 # [apim]
